@@ -1,4 +1,4 @@
-
+--Fog
 
 globalFogDed = 4000
 local TableCountFps = {
