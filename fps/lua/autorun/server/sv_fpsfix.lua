@@ -1,3 +1,4 @@
+--Fog settings
 
 entFog = false
 function DedrussFPSfix()
